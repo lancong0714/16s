@@ -1,0 +1,232 @@
+sample_id,sseqid,pident,length,mismatch,gapopen,qstart,qend,sstart,send,evalue,bitscore,taxonomy
+TSS20241101-1-79,JQ182135.1.1508,81.9,667,109,2,1,965,1,1508,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Pantoea;uncultured Erwinia sp.
+TSS20241101-3-56,KY608558.1.1300,99.9,903,0,1,1,903,1,1300,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Streptomyces clavuligerus
+TSS20241101-1-78,X77436.1.1472,88.9,1447,107,7,1,1400,1,1472,-1,0,Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Microbacteriaceae;Curtobacterium;Curtobacterium citreum
+TSS20241101-3-57,JX566553.1.1493,88.8,1476,79,6,1,1394,1,1493,-1,0,Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Microbacteriaceae;Curtobacterium;Curtobacterium sp. 2016
+TSS20241101-1-45,AB273743.1.1489,85.9,1494,126,11,1,1418,1,1489,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Pantoea;Pantoea dispersa
+TSS20241101-3-23,CP022345.4131869.4133400,95.9,1362,43,9,1,1362,1,1532,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus thuringiensis
+TSS20241101-1-10,GU936678.1.1470,97.2,1342,37,1,1,1341,1,1470,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia-Caballeronia-Paraburkholderia;Burkholderia gladioli pv. agaricicola
+TSS20241101-2-80,MH769080.1.1446,100,1379,0,0,1,1379,1,1446,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp.
+TSS20241101-2-82,KF150494.1.1534,91.6,1004,32,9,1,974,1,1534,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus cereus
+TSS20241101-1-4,CP013401.288319.289854,86.8,1497,98,9,1,1406,1,1536,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia-Caballeronia-Paraburkholderia;Burkholderia metallica
+TSS20241101-2-83,CFEQ01000210.2156.3877,99.8,898,0,2,1,898,1,1722,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Litchfieldia;Streptococcus pneumoniae
+TSS20241101-1-50,HG813242.2380723.2382253,80.4,1520,196,15,1,1429,1,1531,-1,0,Bacteria;Bacillota;Bacilli;Staphylococcales;Staphylococcaceae;Staphylococcus;Staphylococcus epidermidis PM221
+TSS20241101-1-7,CP023522.2458830.2460369,89.9,1453,97,4,1,1403,1,1540,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia-Caballeronia-Paraburkholderia;Burkholderia gladioli pv. gladioli
+TSS20241101-3-88,CP022345.4131869.4133400,91.7,1441,59,16,1,1399,1,1532,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus thuringiensis
+TSS20241101-3-24,CP022345.4131869.4133400,89,1513,75,10,1,1426,1,1532,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus thuringiensis
+TSS20241101-2-3,AM743169.4791079.4792623,90.7,1498,52,8,1,1411,1,1545,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Lysobacterales;Lysobacteraceae;Stenotrophomonas;Stenotrophomonas maltophilia K279a
+TSS20241101-2-84,AY586517.1.1514,100,1381,0,0,1,1381,1,1514,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia-Caballeronia-Paraburkholderia;Burkholderia gladioli
+TSS20241101-2-43,JF825488.1.1500,90.7,1476,53,8,1,1392,1,1500,-1,0,Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Microbacteriaceae;Curtobacterium;uncultured Curtobacterium sp.
+TSS20241101-1-52,KP162078.1.1501,85,805,83,11,1,1263,1,1501,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Pantoea;Pantoea sp. LS-720
+TSS20241101-1-53,MH542301.1.1269,88.1,628,58,4,1,740,1,1269,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Enterobacter;Citrobacter europaeus
+TSS20241101-3-26,CP009351.3124317.3125854,88.1,1509,93,9,1,1423,1,1538,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus thuringiensis HD1002
+TSS20241101-3-59,JX566553.1.1493,90.4,1475,58,6,1,1394,1,1493,-1,0,Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Microbacteriaceae;Curtobacterium;Curtobacterium sp. 2016
+TSS20241101-1-11,GU936678.1.1470,100,1378,0,0,1,1378,1,1470,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia-Caballeronia-Paraburkholderia;Burkholderia gladioli pv. agaricicola
+TSS20241101-3-89,CP022345.4131869.4133400,89.4,1477,92,11,1,1415,1,1532,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus thuringiensis
+TSS20241101-1-80,AY586517.1.1514,99.9,1320,1,0,1,1320,1,1514,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia-Caballeronia-Paraburkholderia;Burkholderia gladioli
+TSS20241101-2-85,AY586517.1.1514,99.9,1296,1,0,1,1296,1,1514,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia-Caballeronia-Paraburkholderia;Burkholderia gladioli
+TSS20241101-3-27,KC788497.1.1325,99.9,1240,0,1,1,1240,1,1325,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;uncultured Bacillus sp.
+TSS20241101-1-12,AY208751.1.1547,85.6,1517,131,9,1,1433,1,1547,-1,0,Bacteria;Bacillota;Bacilli;Paenibacillales;Paenibacillaceae;Paenibacillus;Paenibacillus favisporus
+TSS20241101-2-44,EU719665.1.1504,80.4,827,118,11,1,1470,1,1504,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp. cp-h71
+TSS20241101-1-54,LT571449.239391.240921,87.7,1497,78,8,1,1399,1,1531,-1,0,Bacteria;Bacillota;Bacilli;Staphylococcales;Staphylococcaceae;Staphylococcus;Staphylococcus epidermidis
+TSS20241101-3-90,MF592274.1.1455,96.6,1360,26,4,1,1356,1,1455,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp. (in: Bacteria)
+TSS20241101-3-5,HM047296.1.1457,99.6,1403,5,0,1,1403,1,1457,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp. 3-CPA-15
+TSS20241101-3-28,CP009686.28661.30204,87.1,808,78,4,1,1357,1,1544,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus cereus
+TSS20241101-3-60,HQ219964.1.1486,89.3,778,81,2,1,1200,1,1486,-1,0,Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Microbacteriaceae;Curtobacterium;Curtobacterium sp. ATY45
+TSS20241101-1-81,KC310818.1.1444,100,1386,0,0,1,1386,1,1444,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp. B2(2013)
+TSS20241101-2-88,CP009300.4372385.4373921,86.9,841,43,13,1,935,1,1537,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus cereus D17
+TSS20241101-2-45,KF906837.1.1529,79.1,853,140,8,1,1399,1,1529,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Pantoea;Pantoea sp. PRE2
+TSS20241101-3-61,HG518322.57126.58598,90.6,1009,49,4,1,965,1,1473,-1,0,Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Agrobacterium;Rhizobium sp. IRBG74
+TSS20241101-1-55,KU221446.1.1428,99.8,1207,3,0,1,1207,1,1428,-1,0,Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Microbacteriaceae;Microbacterium;bacterium T64
+TSS20241101-2-89,GU939625.1.1554,84.1,744,87,7,1,854,1,1554,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus anthracis
+TSS20241101-2-87,AB681572.1.1486,100,1428,0,0,1,1428,1,1486,-1,0,Bacteria;Bacillota;Bacilli;Lactobacillales;Enterococcaceae;Enterococcus;Enterococcus thailandicus
+TSS20241101-3-91,JF414763.1.1479,99.1,1240,5,6,1,1240,1,1479,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus thuringiensis
+TSS20241101-1-15,AY208751.1.1547,82.5,796,101,8,1,865,1,1547,-1,0,Bacteria;Bacillota;Bacilli;Paenibacillales;Paenibacillaceae;Paenibacillus;Paenibacillus favisporus
+TSS20241101-3-29,JX566553.1.1493,88.7,1475,82,4,1,1393,1,1493,-1,0,Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Microbacteriaceae;Curtobacterium;Curtobacterium sp. 2016
+TSS20241101-1-82,KY908494.1.1413,98.2,1221,14,2,1,1214,1,1413,-1,0,Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Microbacteriaceae;Curtobacterium;Curtobacterium sp.
+TSS20241101-1-13,AY208751.1.1547,82.7,1518,160,12,1,1424,1,1547,-1,0,Bacteria;Bacillota;Bacilli;Paenibacillales;Paenibacillaceae;Paenibacillus;Paenibacillus favisporus
+TSS20241101-2-50,LT992502.4462437.4463956,88.7,962,60,8,1,925,1,1520,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Enterobacter;Enterobacter bugandensis
+TSS20241101-1-56,KU221446.1.1428,99.7,1191,3,0,1,1191,1,1428,-1,0,Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Microbacteriaceae;Microbacterium;bacterium T64
+TSS20241101-2-47,HE798556.4702023.4703560,99.9,1339,2,0,1,1339,1,1538,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Lysobacterales;Lysobacteraceae;Stenotrophomonas;Stenotrophomonas maltophilia D457
+TSS20241101-3-63,HG518322.57126.58598,90.4,1008,49,6,1,962,1,1473,-1,0,Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Agrobacterium;Rhizobium sp. IRBG74
+TSS20241101-3-62,EU719664.1.1498,88.5,939,73,15,1,1212,1,1498,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp. cp-h58
+TSS20241101-3-94,CP022345.4131869.4133400,89.1,1511,75,8,1,1424,1,1532,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus thuringiensis
+TSS20241101-1-83,KR780373.1.1447,99.9,1404,1,0,1,1404,1,1447,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Lysobacterales;Lysobacteraceae;Stenotrophomonas;Stenotrophomonas sp. CS18
+TSS20241101-3-2,HE983368.1.1419,99.8,1252,2,0,1,1252,1,1419,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia-Caballeronia-Paraburkholderia;Caballeronia zhejiangensis
+TSS20241101-1-16,X77436.1.1472,93.2,1425,55,5,1,1383,1,1472,-1,0,Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Microbacteriaceae;Curtobacterium;Curtobacterium citreum
+TSS20241101-2-8,CP013450.2553083.2554618,99.8,1349,3,0,1,1349,1,1536,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia-Caballeronia-Paraburkholderia;Burkholderia cenocepacia
+TSS20241101-1-57,KJ742705.1.1478,81.5,1471,213,11,1,1414,1,1478,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Pantoea;Pantoea stewartii
+TSS20241101-2-51,KR906477.1.1434,99.7,1306,2,2,1,1306,1,1434,-1,0,Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Microbacteriaceae;Curtobacterium;Curtobacterium sp. HBUM179125
+TSS20241101-2-52,JF825488.1.1500,89.9,1026,57,4,1,1068,1,1500,-1,0,Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Microbacteriaceae;Curtobacterium;uncultured Curtobacterium sp.
+TSS20241101-3-65,HQ219964.1.1486,83.4,710,111,5,1,1274,1,1486,-1,0,Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Microbacteriaceae;Curtobacterium;Curtobacterium sp. ATY45
+TSS20241101-3-95,KY652129.1.1461,99.4,1238,3,4,1,1238,1,1461,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus thuringiensis
+TSS20241101-1-84,CP019669.41317.42852,99.8,1273,2,0,1,1273,1,1536,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia-Caballeronia-Paraburkholderia;Burkholderia cenocepacia
+TSS20241101-3-30,JX566553.1.1493,92.6,1426,63,6,1,1384,1,1493,-1,0,Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Microbacteriaceae;Curtobacterium;Curtobacterium sp. 2016
+TSS20241101-1-58,KY773602.1.1358,86.2,1358,166,7,1,1411,1,1358,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Pantoea;Pantoea dispersa
+TSS20241101-3-68,KF150494.1.1534,93.9,1013,19,3,1,971,1,1534,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus cereus
+TSS20241101-2-90,JN084138.1.1416,95.8,1320,43,9,1,1315,1,1416,-1,0,Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Microbacteriaceae;Microbacterium;Microbacterium testaceum
+TSS20241101-3-67,JF825488.1.1500,83.7,741,80,10,1,1254,1,1500,-1,0,Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Microbacteriaceae;Curtobacterium;uncultured Curtobacterium sp.
+TSS20241101-3-6,KJ200405.1.1434,99.9,870,0,1,1,869,1,1434,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia-Caballeronia-Paraburkholderia;Burkholderia sp. FSGSD1
+TSS20241101-1-85,CP019669.41317.42852,99.9,1372,1,0,1,1372,1,1536,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia-Caballeronia-Paraburkholderia;Burkholderia cenocepacia
+TSS20241101-2-53,MJAK01000001.914872.916381,90.5,1475,55,8,1,1390,1,1510,-1,0,Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Microbacteriaceae;Curtobacterium;Curtobacterium sp. ER1/6
+TSS20241101-1-18,KF933705.1.1452,100,1272,0,0,1,1272,1,1452,-1,0,Bacteria;Bacillota;Bacilli;Staphylococcales;Staphylococcaceae;Staphylococcus;Staphylococcus sp. QD53
+TSS20241101-1-59,FJ756350.1.1505,66.7,1645,322,61,1,1590,1,1505,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Pantoea;Pantoea dispersa
+TSS20241101-2-93,JX645593.1.1562,93,100,7,0,1,185,1,1562,-1,0,Bacteria;Bacillota;Clostridia;Clostridiales;Clostridiaceae;Clostridium;uncultured Clostridiaceae bacterium
+TSS20241101-3-9,JQ182135.1.1508,85.1,743,95,6,1,816,1,1508,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Pantoea;uncultured Erwinia sp.
+TSS20241101-1-86,MJAK01000001.914872.916381,85.9,799,70,10,1,1338,1,1510,-1,0,Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Microbacteriaceae;Curtobacterium;Curtobacterium sp. ER1/6
+TSS20241101-3-96,CP022345.4131869.4133400,88.9,1517,73,15,1,1432,1,1532,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus thuringiensis
+TSS20241101-2-91,KY908494.1.1413,94.9,1221,54,2,1,1214,1,1413,-1,0,Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Microbacteriaceae;Curtobacterium;Curtobacterium sp.
+TSS20241101-2-54,KJ923799.2.1701,71,1657,175,22,1,1378,1,1700,-1,0,Bacteria;Bacillota;Bacilli;Paenibacillales;Paenibacillaceae;Paenibacillus;Paenibacillus polymyxa
+TSS20241101-3-32,CP009590.1964191.1965728,73.4,665,115,11,1,953,1,1538,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus cereus G9241
+TSS20241101-1-1,CP013401.288319.289854,91.8,1439,74,4,1,1397,1,1536,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia-Caballeronia-Paraburkholderia;Burkholderia metallica
+TSS20241101-2-55,KY773602.1.1358,93.5,743,34,5,1,1319,1,1358,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Pantoea;Pantoea dispersa
+TSS20241101-3-31,HG518322.57126.58598,89.5,1441,64,7,1,1355,1,1473,-1,0,Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Agrobacterium;Rhizobium sp. IRBG74
+TSS20241101-3-70,CP022345.4131869.4133400,92.3,1461,48,8,1,1417,1,1532,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus thuringiensis
+TSS20241101-1-5,LT992502.245507.247025,84.8,829,91,8,1,1367,1,1519,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Enterobacter;Enterobacter bugandensis
+TSS20241101-1-87,CP007747.732983.734503,100,1295,0,0,1,1295,1,1521,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia-Caballeronia-Paraburkholderia;Burkholderia cepacia ATCC 25416
+TSS20241101-2-94,CP016316.295356.296910,92.5,1049,51,4,1,1443,1,1555,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus cereus
+TSS20241101-1-20,LT571449.239391.240921,86.6,1516,97,12,1,1420,1,1531,-1,0,Bacteria;Bacillota;Bacilli;Staphylococcales;Staphylococcaceae;Staphylococcus;Staphylococcus epidermidis
+TSS20241101-2-57,KF150494.1.1534,93,1014,25,3,1,970,1,1534,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus cereus
+TSS20241101-3-71,CP022345.4131869.4133400,88.5,1514,76,11,1,1423,1,1532,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus thuringiensis
+TSS20241101-1-88,CP019669.41317.42852,85.7,1427,138,8,1,1367,1,1536,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia-Caballeronia-Paraburkholderia;Burkholderia cenocepacia
+TSS20241101-2-56,MH157229.1.1450,99.9,1360,1,1,1,1360,1,1450,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Lysobacterales;Lysobacteraceae;Stenotrophomonas;Pseudomonas azotoformans
+TSS20241101-4-10,CP022345.4131869.4133400,87.6,1521,83,17,1,1430,1,1532,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus thuringiensis
+TSS20241101-1-62,AB273743.1.1489,81.9,1487,187,11,1,1412,1,1489,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Pantoea;Pantoea dispersa
+TSS20241101-2-58,MG674658.1.1396,79.6,663,109,9,1,1234,1,1396,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus cereus
+TSS20241101-3-72,DQ452509.1.1379,99.7,1298,4,0,1,1298,1,1379,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus subtilis
+TSS20241101-1-89,CP009744.3001546.3003140,77.5,1375,289,11,1,1365,1,1595,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia-Caballeronia-Paraburkholderia;Burkholderia contaminans
+TSS20241101-3-33,JX566553.1.1493,90.6,1473,55,6,1,1391,1,1493,-1,0,Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Microbacteriaceae;Curtobacterium;Curtobacterium sp. 2016
+TSS20241101-2-95,JX566553.1.1493,99.8,1330,3,0,1,1330,1,1493,-1,0,Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Microbacteriaceae;Curtobacterium;Curtobacterium sp. 2016
+TSS20241101-1-21,CP009323.2018931.2020451,91.2,1446,79,4,1,1404,1,1521,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia-Caballeronia-Paraburkholderia;Burkholderia gladioli
+TSS20241101-1-25,AAAA02049656.53.1588,86.8,804,97,4,1,1054,1,1536,-1,0,Bacteria;Bacillota;Bacilli;Paenibacillales;Paenibacillaceae;Paenibacillus;Oryza sativa Indica Group (long-grained rice)
+TSS20241101-2-59,KT380673.1.1404,99.9,884,1,0,1,884,1,1404,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus cereus
+TSS20241101-4-12,FJ613624.1.1526,87.7,1507,99,11,1,1422,1,1526,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Niallia;Bacillus sp. 81
+TSS20241101-1-63,CP004014.572968.574508,85.2,1509,136,13,1,1422,1,1541,-1,0,Bacteria;Bacillota;Bacilli;Staphylococcales;Staphylococcaceae;Staphylococcus;Staphylococcus pasteuri SP1
+TSS20241101-2-62,MH304428.1.1488,89.3,1374,136,9,1,1372,1,1488,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus anthracis
+TSS20241101-4-13,HG518322.57126.58598,89.9,1443,57,8,1,1357,1,1473,-1,0,Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Agrobacterium;Rhizobium sp. IRBG74
+TSS20241101-3-34,CP025780.177.1721,86.1,1518,103,11,1,1427,1,1545,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Lysobacterales;Lysobacteraceae;Stenotrophomonas;Stenotrophomonas sp. Pemsol
+TSS20241101-1-8,CP023522.2458830.2460369,85.9,1494,117,5,1,1405,1,1540,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia-Caballeronia-Paraburkholderia;Burkholderia gladioli pv. gladioli
+TSS20241101-3-73,CP007747.732983.734503,89.6,1458,97,6,1,1406,1,1521,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia-Caballeronia-Paraburkholderia;Burkholderia cepacia ATCC 25416
+TSS20241101-1-64,CP009323.2018931.2020451,89,1459,90,10,1,1396,1,1521,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia-Caballeronia-Paraburkholderia;Burkholderia gladioli
+TSS20241101-1-26,AAAA02049656.53.1588,87,860,99,7,1,1173,1,1536,-1,0,Bacteria;Bacillota;Bacilli;Paenibacillales;Paenibacillaceae;Paenibacillus;Oryza sativa Indica Group (long-grained rice)
+TSS20241101-2-96,FJ501984.1.1457,100,1418,0,0,1,1418,1,1457,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus cereus
+TSS20241101-4-15,MF988686.1.1417,68.6,650,185,12,1,659,1,1417,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus cereus
+TSS20241101-3-74,HG518322.57126.58598,85.5,1445,121,10,1,1359,1,1473,-1,0,Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Agrobacterium;Rhizobium sp. IRBG74
+TSS20241101-2-63,FJ501984.1.1457,100,1411,0,0,1,1411,1,1457,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus cereus
+TSS20241101-3-35,CP025780.177.1721,86.5,1002,63,24,1,960,1,1545,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Lysobacterales;Lysobacteraceae;Stenotrophomonas;Stenotrophomonas sp. Pemsol
+TSS20241101-1-90,CP007747.732983.734503,99.9,1274,1,0,1,1274,1,1521,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia-Caballeronia-Paraburkholderia;Burkholderia cepacia ATCC 25416
+TSS20241101-4-14,HG518322.57126.58598,87.8,1445,89,7,1,1361,1,1473,-1,0,Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Agrobacterium;Rhizobium sp. IRBG74
+TSS20241101-1-65,FN995266.1.1512,89.3,1462,99,11,1,1409,1,1512,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus gottheilii
+TSS20241101-3-77,CP022345.4592382.4593913,82.1,728,87,11,1,1134,1,1532,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus thuringiensis
+TSS20241101-1-28,KC192729.1.1515,90.7,1463,73,6,1,1421,1,1515,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Planococcaceae;Lysinibacillus;Lysinibacillus sp. JSX389
+TSS20241101-1-91,JQ182135.1.1508,78.7,755,143,7,1,1217,1,1508,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Pantoea;uncultured Erwinia sp.
+TSS20241101-2-9,CP021079.3049867.3051391,92.1,1439,70,3,1,1396,1,1525,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Alcaligenaceae;Alcaligenes;Alcaligenes faecalis
+TSS20241101-3-37,KF150494.1.1534,92.4,1015,22,4,1,967,1,1534,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus cereus
+TSS20241101-3-36,JX566553.1.1493,90.6,1475,55,6,1,1393,1,1493,-1,0,Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Microbacteriaceae;Curtobacterium;Curtobacterium sp. 2016
+TSS20241101-2-64,JQ900510.1.1453,100,1412,0,0,1,1412,1,1453,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Planococcaceae;Lysinibacillus;Lysinibacillus fusiformis
+TSS20241101-2-65,MH304428.1.1488,97.3,890,14,1,1,1178,1,1488,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus anthracis
+TSS20241101-1-66,AB273743.1.1489,84.3,1485,161,12,1,1415,1,1489,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Pantoea;Pantoea dispersa
+TSS20241101-1-29,KU891831.1.1520,86,1520,114,11,1,1428,1,1520,-1,0,Bacteria;Bacillota;Bacilli;Paenibacillales;Paenibacillaceae;Paenibacillus;Paenibacillus sp. GJ01
+TSS20241101-4-16,HG518322.57126.58598,89.2,1443,68,7,1,1357,1,1473,-1,0,Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Agrobacterium;Rhizobium sp. IRBG74
+TSS20241101-2-10,CP009323.2018931.2020451,85.2,1504,117,11,1,1410,1,1521,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia-Caballeronia-Paraburkholderia;Burkholderia gladioli
+TSS20241101-1-2,CP013401.288319.289854,93.3,1254,82,2,1,1254,1,1536,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia-Caballeronia-Paraburkholderia;Burkholderia metallica
+TSS20241101-3-39,EU223961.1.1610,53.2,171,57,3,1,150,1,1610,-1,0,Bacteria;Acidobacteriota;Blastocatellia;Pyrinomonadales;Pyrinomonadaceae;Incertae Sedis;uncultured soil bacterium
+TSS20241101-3-78,CP022345.4131869.4133400,92.7,1397,58,19,1,1393,1,1532,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus thuringiensis
+TSS20241101-3-11,DQ469213.1.1551,74.4,121,14,1,1,104,1,1551,-1,0,Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingobium;uncultured bacterium
+TSS20241101-2-68,CP020847.2707565.2709118,88.8,1497,76,11,1,1408,1,1554,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Klebsiella;Klebsiella variicola
+TSS20241101-4-17,CP009351.3124317.3125854,89.5,772,54,3,1,1279,1,1538,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus thuringiensis HD1002
+TSS20241101-1-67,AB273743.1.1489,80.9,1479,207,12,1,1407,1,1489,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Pantoea;Pantoea dispersa
+TSS20241101-2-11,CP009323.2018931.2020451,86.6,1498,106,9,1,1409,1,1521,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia-Caballeronia-Paraburkholderia;Burkholderia gladioli
+TSS20241101-3-38,JX566553.1.1493,93.7,1396,46,4,1,1354,1,1493,-1,0,Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Microbacteriaceae;Curtobacterium;Curtobacterium sp. 2016
+TSS20241101-3-79,CP022345.4592382.4593913,93.7,1372,41,7,1,1332,1,1532,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus thuringiensis
+TSS20241101-3-40,JX566553.1.1493,87.9,920,59,6,1,873,1,1493,-1,0,Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Microbacteriaceae;Curtobacterium;Curtobacterium sp. 2016
+TSS20241101-1-30,JX566553.1.1493,85.5,1482,118,8,1,1399,1,1493,-1,0,Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Microbacteriaceae;Curtobacterium;Curtobacterium sp. 2016
+TSS20241101-3-10,CP025957.402473.404024,89.5,1469,83,10,1,1414,1,1552,-1,0,Bacteria;Bacillota;Bacilli;Paenibacillales;Paenibacillaceae;Paenibacillus;Paenibacillus polymyxa
+TSS20241101-4-18,JX566553.1.1493,89.4,1477,71,8,1,1400,1,1493,-1,0,Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Microbacteriaceae;Curtobacterium;Curtobacterium sp. 2016
+TSS20241101-2-18,HG813242.2380723.2382253,86.2,1513,110,9,1,1421,1,1531,-1,0,Bacteria;Bacillota;Bacilli;Staphylococcales;Staphylococcaceae;Staphylococcus;Staphylococcus epidermidis PM221
+TSS20241101-3-80,CP005935.354993.356555,80.2,920,121,7,1,1655,1,1563,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus thuringiensis YBT-1518
+TSS20241101-2-6,CP013450.2553083.2554618,94.2,1388,57,4,1,1364,1,1536,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia-Caballeronia-Paraburkholderia;Burkholderia cenocepacia
+TSS20241101-2-71,FJ756350.1.1505,93.4,1026,23,4,1,983,1,1505,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Pantoea;Pantoea dispersa
+TSS20241101-4-19,HG518322.57126.58598,88.2,1445,82,7,1,1361,1,1473,-1,0,Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Agrobacterium;Rhizobium sp. IRBG74
+TSS20241101-3-13,JF825505.1.1516,86.6,919,54,24,1,875,1,1516,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Pantoea;uncultured gamma proteobacterium
+TSS20241101-1-31,KU891831.1.1520,88.5,1512,87,9,1,1427,1,1520,-1,0,Bacteria;Bacillota;Bacilli;Paenibacillales;Paenibacillaceae;Paenibacillus;Paenibacillus sp. GJ01
+TSS20241101-3-12,AY586517.1.1514,99.6,1361,5,0,1,1361,1,1514,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia-Caballeronia-Paraburkholderia;Burkholderia gladioli
+TSS20241101-3-15,CP025957.11947.13498,90.6,990,51,3,1,948,1,1552,-1,0,Bacteria;Bacillota;Bacilli;Paenibacillales;Paenibacillaceae;Paenibacillus;Paenibacillus polymyxa
+TSS20241101-2-73,DQ469213.1.1551,74.6,118,13,1,1,101,1,1551,-1,0,Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingobium;uncultured bacterium
+TSS20241101-1-69,CP022881.763624.765174,88.9,1392,106,6,1,1346,1,1551,-1,0,Bacteria;Bacillota;Bacilli;Staphylococcales;Staphylococcaceae;Staphylococcus;Staphylococcus sp. M0911
+TSS20241101-3-16,AJ716019.1.1523,88.9,889,54,14,1,873,1,1523,-1,0,Bacteria;Bacillota;Bacilli;Paenibacillales;Paenibacillaceae;Paenibacillus;Paenibacillus barcinonensis
+TSS20241101-3-42,JX566553.1.1493,92.5,1422,63,4,1,1379,1,1493,-1,0,Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Microbacteriaceae;Curtobacterium;Curtobacterium sp. 2016
+TSS20241101-2-19,HQ831420.1.1455,100,1408,0,0,1,1408,1,1455,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus velezensis
+TSS20241101-3-81,CP022345.4131869.4133400,85.5,1539,101,24,1,1448,1,1532,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus thuringiensis
+TSS20241101-4-20,JX566553.1.1493,88.6,1478,82,7,1,1400,1,1493,-1,0,Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Microbacteriaceae;Curtobacterium;Curtobacterium sp. 2016
+TSS20241101-1-32,CP014107.929906.931458,87.2,803,101,2,1,1364,1,1553,-1,0,Bacteria;Bacillota;Bacilli;Staphylococcales;Staphylococcaceae;Staphylococcus;Staphylococcus hominis
+TSS20241101-3-82,AM743169.4791079.4792623,86,1504,121,10,1,1417,1,1545,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Lysobacterales;Lysobacteraceae;Stenotrophomonas;Stenotrophomonas maltophilia K279a
+TSS20241101-2-74,FJ756350.1.1505,89.9,975,53,6,1,932,1,1505,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Pantoea;Pantoea dispersa
+TSS20241101-2-72,MH769252.1.1433,99.9,1379,2,0,1,1379,1,1433,-1,0,Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Microbacteriaceae;Curtobacterium;Curtobacterium luteum
+TSS20241101-2-21,CP033430.1370044.1371583,87.8,1497,90,5,1,1409,1,1540,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia-Caballeronia-Paraburkholderia;Burkholderia gladioli
+TSS20241101-1-6,CP023522.2458830.2460369,90.2,1455,88,6,1,1403,1,1540,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia-Caballeronia-Paraburkholderia;Burkholderia gladioli pv. gladioli
+TSS20241101-3-44,JX566553.1.1493,85.6,1482,116,9,1,1393,1,1493,-1,0,Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Microbacteriaceae;Curtobacterium;Curtobacterium sp. 2016
+TSS20241101-4-23,JX566553.1.1493,88.2,1479,85,9,1,1401,1,1493,-1,0,Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Microbacteriaceae;Curtobacterium;Curtobacterium sp. 2016
+TSS20241101-2-79,KT884902.1.1446,93.6,714,46,0,1,714,1,1446,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Enterobacter;uncultured bacterium
+TSS20241101-2-22,CP033430.1370044.1371583,91.4,1453,75,4,1,1403,1,1540,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia-Caballeronia-Paraburkholderia;Burkholderia gladioli
+TSS20241101-1-70,MH767037.1.1422,97.4,1249,3,1,1,1220,1,1422,-1,0,Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Microbacteriaceae;Microbacterium;uncultured Aurantimicrobium sp.
+TSS20241101-1-33,AM403628.1.1492,89.3,1438,109,6,1,1395,1,1492,-1,0,Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Microbacteriaceae;Microbacterium;Microbacterium sp. R-33775
+TSS20241101-3-17,CP009323.2018931.2020451,85.6,1510,110,17,1,1422,1,1521,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia-Caballeronia-Paraburkholderia;Burkholderia gladioli
+TSS20241101-3-45,HG518322.57126.58598,84.5,1446,133,12,1,1360,1,1473,-1,0,Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Agrobacterium;Rhizobium sp. IRBG74
+TSS20241101-2-78,MH769252.1.1433,99.9,1346,1,0,1,1346,1,1433,-1,0,Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Microbacteriaceae;Curtobacterium;Curtobacterium luteum
+TSS20241101-2-24,CP009322.52209.53729,74.2,407,53,6,1,378,1,1521,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia-Caballeronia-Paraburkholderia;Burkholderia gladioli
+TSS20241101-4-25,MF988686.1.1417,62.2,690,234,15,1,729,1,1417,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus cereus
+TSS20241101-3-19,CP022345.4592382.4593913,87.8,1511,93,10,1,1424,1,1532,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus thuringiensis
+TSS20241101-2-23,CP015036.5923669.5925204,99.9,1238,1,0,1,1238,1,1536,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia-Caballeronia-Paraburkholderia;Burkholderia cenocepacia
+TSS20241101-4-24,EU719664.1.1498,88.1,1501,101,9,1,1431,1,1498,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp. cp-h58
+TSS20241101-3-83,AM743169.4791079.4792623,87.2,1504,100,9,1,1415,1,1545,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Lysobacterales;Lysobacteraceae;Stenotrophomonas;Stenotrophomonas maltophilia K279a
+TSS20241101-3-84,AM743169.4791079.4792623,86.8,1507,103,11,1,1417,1,1545,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Lysobacterales;Lysobacteraceae;Stenotrophomonas;Stenotrophomonas maltophilia K279a
+TSS20241101-1-71,HQ674984.1.1298,98.5,1279,0,1,1,1260,1,1298,-1,0,Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Agrobacterium;bacterium C18(2011)
+TSS20241101-1-34,JX566553.1.1493,87.6,1476,97,6,1,1393,1,1493,-1,0,Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Microbacteriaceae;Curtobacterium;Curtobacterium sp. 2016
+TSS20241101-2-25,CP033430.1370044.1371583,87,1496,106,5,1,1410,1,1540,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia-Caballeronia-Paraburkholderia;Burkholderia gladioli
+TSS20241101-3-46,EU719664.1.1498,88.6,1495,100,11,1,1427,1,1498,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp. cp-h58
+TSS20241101-2-7,CP013450.2553083.2554618,99.6,1352,5,0,1,1352,1,1536,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia-Caballeronia-Paraburkholderia;Burkholderia cenocepacia
+TSS20241101-3-85,CP018933.191460.192991,90.3,1477,77,10,1,1414,1,1532,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus cereus
+TSS20241101-4-27,JX566553.1.1493,86.3,1475,111,10,1,1395,1,1493,-1,0,Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Microbacteriaceae;Curtobacterium;Curtobacterium sp. 2016
+TSS20241101-3-1,HE983368.1.1419,99.9,1337,1,0,1,1337,1,1419,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia-Caballeronia-Paraburkholderia;Caballeronia zhejiangensis
+TSS20241101-2-26,CP015036.5923669.5925204,89.2,1459,107,4,1,1409,1,1536,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia-Caballeronia-Paraburkholderia;Burkholderia cenocepacia
+TSS20241101-3-47,CP022556.2351105.2352634,85.6,1541,101,28,1,1456,1,1530,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus velezensis
+TSS20241101-4-28,CP011863.3771747.3773300,82.9,812,105,6,1,1378,1,1554,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Enterobacter;Enterobacter asburiae
+TSS20241101-1-72,LT571449.239391.240921,88.5,1509,84,10,1,1423,1,1531,-1,0,Bacteria;Bacillota;Bacilli;Staphylococcales;Staphylococcaceae;Staphylococcus;Staphylococcus epidermidis
+TSS20241101-4-2,JX566553.1.1493,87.2,1482,92,9,1,1398,1,1493,-1,0,Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Microbacteriaceae;Curtobacterium;Curtobacterium sp. 2016
+TSS20241101-3-86,KY910253.1.1483,85.3,1451,147,24,1,1448,1,1483,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus thuringiensis
+TSS20241101-1-39,HM556657.1.1380,86.8,828,55,19,1,1419,1,1380,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Incertae Sedis;uncultured bacterium
+TSS20241101-1-37,LT571449.239391.240921,89.7,808,55,4,1,1367,1,1531,-1,0,Bacteria;Bacillota;Bacilli;Staphylococcales;Staphylococcaceae;Staphylococcus;Staphylococcus epidermidis
+TSS20241101-3-20,CP022345.4131869.4133400,90.5,1481,71,13,1,1419,1,1532,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus thuringiensis
+TSS20241101-3-87,HG518322.57126.58598,87.7,1442,90,7,1,1356,1,1473,-1,0,Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Agrobacterium;Rhizobium sp. IRBG74
+TSS20241101-2-29,AB592540.1.1363,100,1296,0,0,1,1296,1,1363,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus thuringiensis
+TSS20241101-3-51,JF825488.1.1500,88.3,1035,65,8,1,1036,1,1500,-1,0,Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Microbacteriaceae;Curtobacterium;uncultured Curtobacterium sp.
+TSS20241101-3-49,CP018935.1572111.1573642,90.6,1475,73,8,1,1412,1,1532,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus cereus
+TSS20241101-2-35,CP021851.5043359.5044873,87.4,1505,95,11,1,1416,1,1515,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Enterobacter;Enterobacter cloacae
+TSS20241101-1-3,AP014577.254386.255905,88.5,1487,84,8,1,1402,1,1520,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia-Caballeronia-Paraburkholderia;Burkholderia sp. RPE67
+TSS20241101-1-73,KJ200406.1.1447,99.9,1362,1,0,1,1362,1,1447,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Lysobacterales;Lysobacteraceae;Stenotrophomonas;Stenotrophomonas sp. FSBSD4
+TSS20241101-4-31,CP007746.1645772.1647292,88.8,803,79,6,1,1377,1,1521,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia-Caballeronia-Paraburkholderia;Burkholderia cepacia ATCC 25416
+TSS20241101-3-21,CP022345.4131869.4133400,94.6,1399,34,5,1,1357,1,1532,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus thuringiensis
+TSS20241101-1-74,KY773602.1.1358,91.1,757,48,5,1,1384,1,1358,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Pantoea;Pantoea dispersa
+TSS20241101-3-53,HG518322.57126.58598,85.9,1443,116,10,1,1357,1,1473,-1,0,Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Agrobacterium;Rhizobium sp. IRBG74
+TSS20241101-1-41,KF906837.1.1529,86,1050,77,10,1,993,1,1529,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Pantoea;Pantoea sp. PRE2
+TSS20241101-4-40,KP990658.1.1576,82.4,811,89,7,1,1364,1,1576,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Enterobacter;Enterobacter tabaci
+TSS20241101-1-40,KF933705.1.1452,99.4,1261,4,3,1,1258,1,1452,-1,0,Bacteria;Bacillota;Bacilli;Staphylococcales;Staphylococcaceae;Staphylococcus;Staphylococcus sp. QD53
+TSS20241101-4-45,DQ469213.1.1551,74.8,163,16,2,1,165,1,1551,-1,0,Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingobium;uncultured bacterium
+TSS20241101-3-22,CP022345.4131869.4133400,93.5,1425,49,5,1,1383,1,1532,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus thuringiensis
+TSS20241101-4-43,JX566553.1.1493,96.3,1325,40,1,1,1316,1,1493,-1,0,Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Microbacteriaceae;Curtobacterium;Curtobacterium sp. 2016
+TSS20241101-1-75,CP007747.732983.734503,100,1302,0,0,1,1302,1,1521,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia-Caballeronia-Paraburkholderia;Burkholderia cepacia ATCC 25416
+TSS20241101-1-76,EU239181.1.1270,95.9,1224,0,1,1,1174,1,1270,-1,0,Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Agrobacterium;Rhizobium sp. KNUC280
+TSS20241101-1-42,FJ756350.1.1505,83.7,1512,135,13,1,1414,1,1505,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Pantoea;Pantoea dispersa
+TSS20241101-3-54,JF899282.1.1460,99.9,1389,1,0,1,1389,1,1460,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus velezensis
+TSS20241101-4-44,CP022345.4592382.4593913,83.4,897,114,8,1,1390,1,1532,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus thuringiensis
+TSS20241101-1-43,AB273743.1.1489,82.2,1490,192,13,1,1422,1,1489,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Pantoea;Pantoea dispersa
+TSS20241101-1-77,HQ674984.1.1298,98.3,1222,2,1,1,1203,1,1298,-1,0,Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Agrobacterium;bacterium C18(2011)
+TSS20241101-3-55,CP018935.1572111.1573642,89.5,1507,71,7,1,1420,1,1532,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus cereus
+TSS20241101-1-44,KY773602.1.1358,89.9,1362,107,9,1,1411,1,1358,-1,0,Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Pantoea;Pantoea dispersa
+TSS20241101-4-5,KY910253.1.1483,93.3,1332,75,2,1,1331,1,1483,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus thuringiensis
+TSS20241101-4-4,KY399766.1.1522,91.4,1470,73,8,1,1418,1,1522,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus firmus
+TSS20241101-4-7,CP022345.4131869.4133400,89.3,769,26,5,1,1143,1,1532,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus thuringiensis
+TSS20241101-4-6,CP022345.4131869.4133400,89.8,1513,64,9,1,1427,1,1532,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus thuringiensis
+TSS20241101-4-8,CP018933.191460.192991,89.2,1512,73,8,1,1425,1,1532,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus cereus
+TSS20241101-4-9,CP008752.4962424.4963960,89.8,1506,70,6,1,1423,1,1537,-1,0,Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus anthracis

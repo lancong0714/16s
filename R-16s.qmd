@@ -1,0 +1,131 @@
+# 数据可视化
+##  读入分类数据
+```{r}
+# 读取分类信息的CSV文件
+library(tidyverse)
+classification_file = "vsearch_taxonomic_result.csv" #（该文件由Vsearch分析整理得）
+silva_output <- read_csv(classification_file)
+
+# 查看数据
+head(silva_output)
+```
+##  创建分类柱状图
+```{r}
+taxon_lvl = c("domain","phylum","class","order","family","genus","species")
+classification_data = silva_output |>
+  filter(pident > 0.95, length > 1000) |>   # 只保留高可信的结果
+  select(sample_id, taxonomy) |> 
+  separate(taxonomy, into = taxon_lvl, sep = ";", fill = "right")
+```
+
+```{r}
+# 绘制分类分布柱状图
+p = classification_data |> 
+  summarise(count = n(), .by = genus) |> 
+  mutate(genus = if_else(genus == "", "*unclassified", genus)) |> 
+  arrange(desc(count)) |> 
+  mutate(genus = as_factor(genus)) |> 
+  ggplot(aes(x = genus, y = count)) +
+  geom_col() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
+  labs(title = "Genus-Level Classification", x = "Genus", y = "Count") +
+  scale_x_discrete(expand = expansion(add = c(3, 0.1)))
+
+p
+```
+#  进化树的可视化
+```{r my_chunk_name, fig.width=10, fig.height=50}
+# 加载ape和ggtree包
+
+library(ape)
+library(ggtree)
+
+# 从Newick格式文件中读取进化树
+tree_file = xfun::magic_path("arb-silva.de_2024-11-13_id1359150.tree")  #该文件来自Silva在线分析
+tree <- read.tree(tree_file)
+
+# 使用ggtree进行高级树可视化
+ggtree(tree) + 
+  geom_tiplab(size = 2) +
+  labs(title = "Phylogenetic Tree from SILVA ACT") +
+  scale_x_continuous(expand = expansion(mult = c(0, 0.2)))
+```
+#  标注分类信息
+```{r my_chunk_name, fig.width=10, fig.height=50}
+# 假设分类数据包含序列ID和相应的分类信息
+ggtree(tree) %<+% classification_data +
+  geom_tiplab(aes(color = genus, label = paste(label, genus)), size = 2) +
+  labs(title = "Phylogenetic Tree with Classification Labels") +
+  scale_x_continuous(expand = expansion(mult = c(0, 0.2))) +
+  theme(legend.position = "inside",
+        legend.position.inside = c(0.9,0.7))
+```
+#  热图可视化
+这一步数据的匹配正确是极其重要的，尤其是sample_id的命名关系到最后能否准确合并。
+##  读取文件
+```{r}
+library(readxl)
+# 获取文件路径
+file <- xfun::magic_path("2024-11-01 sanger_sequencing_sample_table.xlsx")
+
+# 读取 Excel 文件
+sample_table <- read_excel(file)
+```
+
+```{r}
+print(sample_table)
+print(classification_data)
+```
+
+
+##  绘图
+###  检查文件格式是否正确
+```{r}
+# 检查 classification_data 中的 sample_id
+unique_sample_ids_classification <- unique(classification_data$sample_id)
+print(length(unique_sample_ids_classification))
+print(head(unique_sample_ids_classification))
+
+# 检查 sample_table 中的 sample_id
+unique_sample_ids_sample_table <- unique(sample_table$sample_id)
+print(length(unique_sample_ids_sample_table))
+print(head(unique_sample_ids_sample_table))
+
+# 检查两个数据框中的 sample_id 是否有交集
+common_sample_ids <- intersect(unique_sample_ids_classification, unique_sample_ids_sample_table)
+print(length(common_sample_ids))
+print(head(common_sample_ids))
+
+
+```
+
+```{r}
+# combine table
+tb1 = classification_data |> 
+  select(sample_id, genus) |> 
+  mutate(sample_id = str_remove(sample_id, "/(27F|1492R)$")) |> 
+  filter(genus != "")
+
+tb2 = sample_table |> 
+  select(sample_id, field_id)
+
+material_genus_matrix = tb1 |> left_join(tb2) |> 
+  summarise(n = n(), .by = c("field_id", "genus")) |>
+  mutate(field_id = if_else(is.na(field_id), "Not Provided", field_id)) |> 
+  complete(field_id, genus, fill = list(n = 0)) |> 
+  pivot_wider(names_from = "genus", values_from = "n") |> 
+  column_to_rownames(var = "field_id") |> 
+  as.matrix()
+```
+```{r my_chunk_name, fig.width=6.5, fig.height=27.5}
+library(pheatmap)
+# 绘制热图
+pheatmap(material_genus_matrix,
+         angle_col = 90,  # 增加列标签的角度，使其更适合较大的字体
+         fontsize_row = 8, fontsize_col = 8,  # 增大行和列的字体大小
+         cellwidth = 20,   # 增加单元格宽度
+         cellheight = 20,  # 增加单元格高度
+         main = "My Heatmap Title",  # 添加主标题
+         fontsize_main = 16  # 主标题的字体大小
+)           
+```
